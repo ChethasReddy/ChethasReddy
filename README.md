@@ -1,16 +1,30 @@
-## Hi there 👋
+### 👋 Hi there, I'm Chethas Anil Reddy!
 
-<!--
-**ChethasReddy/ChethasReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Computer Science @ Drexel University (Grad: June 2025)  
+💻 Full-stack Developer | Python • React • Next.js • Django  
+🌐 Building web apps that scale. Passionate about clean UI and backend efficiency.  
+📍 Philadelphia, PA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+**Languages:** Python, JavaScript, C++, Java  
+**Frontend:** React, Next.js, TypeScript, HTML/CSS  
+**Backend:** Django, Flask, REST APIs  
+**Databases:** MySQL, MongoDB, SQLite  
+**DevOps/Tools:** Docker, Git, Azure DevOps  
+
+---
+
+### 📌 Highlighted Projects
+- 🃏 [Yu-Gi-Oh! Card Database](https://github.com/ChethasReddy/Yugioh-Card-Database) – Full-stack app with deck builder, live sync, filters  
+- 🎮 [3D UI Builder](https://github.com/ChethasReddy/3D-UI-Builder) – Interactive UI builder with Three.js + Zustand  
+- 🧠 [MNIST Digit Recognizer](https://github.com/ChethasReddy/MNIST-Digit-Classifier) – Scratch-built ML pipelines with BatchNorm, skip connections  
+
+---
+
+### 📫 Connect with me
+📧 chethasreddy@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/chethas-anil-reddy) 
+
