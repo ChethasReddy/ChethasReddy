@@ -18,7 +18,7 @@
 ---
 
 ### 📌 Highlighted Projects
-- 🃏 [Yu-Gi-Oh! Card Database](https://github.com/ChethasReddy/Yugioh-Card-Database) – Full-stack app with deck builder, live sync, filters  
+- 🃏 [Yu-Gi-Oh! Card Database](https://github.com/ChethasReddy/TCG-Frontend) – Full-stack app with deck builder, live sync, filters  
 - 🎮 [3D UI Builder](https://github.com/ChethasReddy/3D-UI-Builder) – Interactive UI builder with Three.js + Zustand  
 - 🧠 [MNIST Digit Recognizer](https://github.com/ChethasReddy/MNIST-Digit-Classifier) – Scratch-built ML pipelines with BatchNorm, skip connections  
 
